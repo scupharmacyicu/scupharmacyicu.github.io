@@ -1,6 +1,6 @@
 ---
 title: SCU Pharmacy ICU
-description: NexT is a high quality elegant Jekyll theme ported from Hexo Next. It is crafted from scratch, with love.
+description: 行政不作为，学术不端不公开透明，不公正。这是重症！
 categories:
  - ICU
 tags:
