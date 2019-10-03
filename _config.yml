@@ -4,8 +4,8 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Test
-subtitle: 
+title: SCU Pharmacy ICU
+subtitle: 华西药学院行政学术不作为--重症监护室
 description:
 author: ScuPharmacyICU
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -93,7 +93,7 @@ rss:
 authoricon: heart
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: true
+copyright: false
 
 # ---------------------------------------------------------------
 # SEO Settings
