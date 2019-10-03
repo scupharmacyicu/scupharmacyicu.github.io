@@ -6,11 +6,9 @@ categories:
 tags:
 ---
 
-<div align=center>
-<img width=200 src="https://github.com/scupharmacyicu/scupharmacyicu.github.io/blob/master/images/icu.PNG" />
-</div>
 
-![](https://github.com/scupharmacyicu/scupharmacyicu.github.io/blob/master/images/icu.PNG)
+![](https://raw.githubusercontent.com/scupharmacyicu/scupharmacyicu.github.io/master/images/icu.PNG)
+
 
 
 ## XX
