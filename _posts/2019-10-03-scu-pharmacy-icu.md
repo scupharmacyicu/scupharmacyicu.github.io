@@ -13,11 +13,15 @@ tags:
 
 TBD
 
+## 问题汇总
 
 ## 证明材料
 
 |文件|时间|人物|摘要|链接下载
-|:-:|:-:|:-:|:-:|:-:|
-|<img src="https://github.com/scupharmacyicu/scupharmacyicu.github.io/blob/master/images/audio.jpg" width="10px" height="10px"/>|2019年6月19日上午11点13分|6月份授位医科分委会意见后|药学院研究生科张x、时x咨询：  1.$\color{red}修改论文后直接送医科分委会$。2.学院分委会，医科分委会更看重盲审。3.申诉渠道去年已不接受，即使能申诉学校无法做判断（药学院学科老师无法看？）。4.药学院年终奖、奖金因为之前2个已毕业学生被查出论文问题受牵连（因担心年终奖奖金受影响，学生的毕业就无差别只看盲审结果--而且是通过，因此受影响？）|[下载链接](#)
-|<img src="https://github.com/scupharmacyicu/scupharmacyicu.github.io/blob/master/images/audio.jpg" width="10px" height="10px"/> |2019年9月16日下午4点34分|论文被重新送回药学院分委会讨论，结果为重新盲审|药学院研究生科张x、时x：1. 虽然作为会议记录秘书，但是只能说明会议结论为论文需要重新送盲审，无法提供具体专家意见，且无法说明会议药学院专家是否重新翻看论文。2. 要求提供书面材料，索取专家意见（不应该是当场给出吗） |[下载链接](#)
+|:-:|:-:|:-:|-|:-:|
+|<img src="https://github.com/scupharmacyicu/scupharmacyicu.github.io/blob/master/images/audio.jpg" width="20px" height="20px"/>|2019年6月19日上午11点13分|6月份授位医科分委会意见后|药学院研究生科张x、时x：<br><br>1. **修改论文后直接送医科分委会**。<br>2. 学院分委会，医科分委会更看重盲审。<br>3. 申诉渠道去年已不接受，即使能申诉学校无法对论文做判断。<br>4. 药学院年终奖、奖金因为之前2个已毕业学生被查出论文问题受牵连|[下载链接](#)
+|<img src="https://github.com/scupharmacyicu/scupharmacyicu.github.io/blob/master/images/audio.jpg" width="20px" height="20px"/> |2019年9月16日下午4点34分|论文**被重新送回药学院分委会讨论**，结果为重新盲审|药学院研究生科张x、时x：<br><br>1. 虽然作为会议记录秘书，但是只能说明会议结论为论文需要重新送盲审，无法提供具体专家意见，且无法说明会议药学院专家是否重新翻看论文。<br>2. 要求提供书面材料，索取专家意见（不应该是会议讨论当场给出吗?）<br>3. 不承认6月份意见|[下载链接](#)
+|<img src="https://github.com/scupharmacyicu/scupharmacyicu.github.io/blob/master/images/audio.jpg" width="20px" height="20px"/> |2019年9月17日上午8点56分|论文被重新送回药学院分委会讨论，HQ无法接受，关机出门散心，去药学院院长办公室寻找|药学院院长秦X：<br><br>1. 药学院专家没办法看所修改论文，因此才需要盲审（即2019年9月16日所做重新送盲审意见并非基于看过论文本身后结论）。<br>2. 指出论文答辩通过后，不承认答辩结果，及本学院专家意见。指出本学院对应学科专家王X学术能力非常一般，意见无法作为参考。<br>3.拒不承认HQ在校时毕业和授位分开规定（见链接内图片），“没达到学位授位标准为什么要毕业”。 |[下载链接](#)
+|<img src="https://github.com/scupharmacyicu/scupharmacyicu.github.io/blob/master/images/audio.jpg" width="20px" height="20px"/> |2019年9月18日上午8点02分|与HQ一起咨询药学院院长|药学院院长秦X：<br><br>1.强调需要通过盲审来作为论文通过标准。<br>2.拒不承认2016年盲审合格结果（三个盲审分数为90,70,70）。<br>3.再次指出药学院近年因查出2篇问题论文，学院老师奖金受到影响 |[下载链接](#)
+
 
